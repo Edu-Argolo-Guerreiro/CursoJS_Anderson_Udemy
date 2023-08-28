@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: auto;
+}
+
+.forms{
+    display:block;
+    margin-top: 1rem;
+    padding: 2rem;
+}
+
+.nome{
+    margin-bottom: 1rem;
+    padding: 20px;
+    width: 30%;
+}
+
+.sobrenome{
+    margin-bottom: 1rem;
+    padding: 20px;
+    width: 30%;
+}
+
+.peso{
+    margin-bottom: 1rem;
+    padding: 20px;
+    width: 30%;
+}
+
+.altura{
+    margin-bottom: 1rem;
+    padding: 20px;
+    width: 30%;
+}
+
+button{
+    display: block;
+    margin-left: 11rem;
+    width: 30%;
+    padding: 0.2rem;
+    cursor: pointer;
+}
